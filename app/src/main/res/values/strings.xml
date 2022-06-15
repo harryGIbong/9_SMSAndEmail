@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EmailSMSPhoneAlarm</string>
+    <string name="phone">Phone</string>
+    <string name="phone_direct">Phone Direct</string>
+    <string name="sms">SMS</string>
+    <string name="sms_direct">SMS Direct</string>
+    <string name="email">Email</string>
+    <string name="alarm">Alarm</string>
+</resources>
